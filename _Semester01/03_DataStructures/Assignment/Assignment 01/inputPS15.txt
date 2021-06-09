@@ -1,0 +1,64 @@
+Indigo666 / Chennai / New Delhi
+Indigo777 / Calcutta / New Delhi
+Spicejet222 / Ahmedabad / Nagpur / Mumbai
+AirIndia111 / Ahmedabad / New Delhi
+Vistara555 / Vishakhapatnam / Hyderabad
+Indigo666 / Mumbai / Hyderabad
+Indigo667 / Mumbai / New Delhi / Hyderabad
+Indigo668 / Vishakhapatnam / Chennai
+Indigo669 / Vishakhapatnam / Calcutta
+Indigo670 / Vishakhapatnam / Ahmedabad / Mumbai / Calcutta
+Indigo671 / Hyderabad / Ahmedabad / Calcutta
+Indigo672 / Hyderabad / Calcutta
+Indigo673 / Ahmedabad / Nagpur / Mumbai
+Indigo674 / Ahmedabad / Hyderabad
+Indigo777 / Ahmedabad / New Delhi / Hyderabad
+Indigo778 / Ahmedabad / Chennai
+Indigo779 / Ahmedabad / Calcutta
+Indigo780 / Calcutta / Vishakhapatnam
+Indigo781 / Nagpur / Hyderabad
+Indigo782 / Hyderabad / Ahmedabad
+Indigo783 / New Delhi / Ahmedabad
+Indigo784 / Chennai / Pune / New Delhi
+Indigo785 / Hyderabad / Chandigarh
+Indigo786 / New Delhi / Bhopal
+Indigo787 / Chennai / Jaipur
+Spicejet222 / Calcutta / Kochi
+Spicejet223 / Ahmedabad / Kochi
+Spicejet224 / Ahmedabad / Hyderabad
+Spicejet225 / Calcutta / New Delhi
+Spicejet226 / Nagpur / Chennai
+Spicejet227 / Hyderabad / Calcutta
+Spicejet228 / New Delhi / Ahmedabad
+Spicejet229 / Chennai / Ahmedabad
+Spicejet230 / Calcutta / Chandigarh / Jaipur / Kochi
+Spicejet231 / Vishakhapatnam / Nagpur
+Spicejet232 / Hyderabad / Nagpur / Kochi
+AirIndia111 / Ahmedabad / New Delhi
+AirIndia112 / Ahmedabad / Chennai
+AirIndia113 / Pune / Calcutta
+AirIndia114 / Chandigarh / Vishakhapatnam
+AirIndia115 / Pune / Hyderabad
+AirIndia116 / Chandigarh / Ahmedabad / Chennai
+AirIndia117 / Bhopal / Ahmedabad / Calcutta
+AirIndia118 / Jaipur / Pune / Vishakhapatnam
+AirIndia119 / Kochi / Chandigarh / Hyderabad
+AirIndia120 / Kochi / Chandigarh / Ahmedabad
+AirIndia121 / Hyderabad / Nagpur / Ahmedabad
+AirIndia122 / Chennai / Chandigarh / Vishakhapatnam
+AirIndia123 / Calcutta / Bhopal / Hyderabad
+AirIndia124 / Vishakhapatnam / Jaipur / Ahmedabad
+AirIndia125 / Hyderabad / Kochi / Ahmedabad
+AirIndia126 / Ahmedabad / Kochi / Pune
+AirIndia127 / Ahmedabad / Hyderabad / Chandigarh
+Vistara555 / Pune / Nagpur / Chennai
+Vistara556 / Pune / Chandigarh / Calcutta
+Vistara557 / Pune / Bhopal / Vishakhapatnam / Chandigarh
+Vistara558 / Raipur / Jaipur
+Vistara559 / Raipur / Kochi
+Vistara560 / Raipur / Kochi / Ahmedabad
+Vistara561 / Raipur / Hyderabad
+Vistara562 / Bangalore / Nagpur
+Vistara563 / Bangalore / Chandigarh
+Vistara564 / Bangalore / Bhopal
+Vistara565 / Ahmedabad / Jaipur / Mumbai

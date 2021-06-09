@@ -1,0 +1,16 @@
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.exe
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.deps.json
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.runtimeconfig.json
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.runtimeconfig.dev.json
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.dll
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\ref\GaussElimination.dll
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\bin\Debug\net5.0\GaussElimination.pdb
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.csprojAssemblyReference.cache
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.GeneratedMSBuildEditorConfig.editorconfig
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.AssemblyInfoInputs.cache
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.AssemblyInfo.cs
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.csproj.CoreCompileInputs.cache
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.dll
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\ref\GaussElimination.dll
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.pdb
+F:\WILP-DSE-21\WILP-DSE-21\_Semester01\01_Mathematics\GaussOnDotNet\GaussElimination\GaussElimination\obj\Debug\net5.0\GaussElimination.genruntimeconfig.cache
